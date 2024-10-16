@@ -1,5 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=docscotch&label=⌖)
-what ami looking at
 <!--
 **docscotch/docscotch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
