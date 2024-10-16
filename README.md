@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=docscotch&label=⌖)
 <!--
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ae9y2qk7070p657oqo5o4uuft&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=6b86d6&bar_color_cover=false)](https://github.com/kittinan/spotify-docscotch)
 **docscotch/docscotch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
